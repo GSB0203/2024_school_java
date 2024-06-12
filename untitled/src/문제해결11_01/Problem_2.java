@@ -3,8 +3,6 @@ package 문제해결11_01;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-import static java.util.Collections.copy;
-
 public class Problem_2 {
   public static void main(String[] args) {
     ArrayList original = new ArrayList();
